@@ -1,6 +1,3 @@
-Here's an improved version of the README content for your Java Maven-based project that respects design patterns such as Observer, Visitor, and Command, and utilizes JFrame for graphical user interface:
-
----
 
 # Geometric Shapes Editor
 
@@ -35,8 +32,7 @@ The application's codebase is structured to accommodate changes and extensions. 
 ## Contribution
 Contributions to the Geometric Shapes Editor are welcome. If you have ideas for improvements or have found a bug, please fork the repository and submit a pull request, or open an issue for discussion.
 
-## License
-This project is licensed under [SPECIFY LICENSE HERE] - see the LICENSE.md file for details.
+
 
 ---
 
