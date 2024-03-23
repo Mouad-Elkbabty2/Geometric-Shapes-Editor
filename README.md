@@ -33,7 +33,3 @@ The application's codebase is structured to accommodate changes and extensions. 
 Contributions to the Geometric Shapes Editor are welcome. If you have ideas for improvements or have found a bug, please fork the repository and submit a pull request, or open an issue for discussion.
 
 
-
----
-
-Make sure to specify the actual license you're using in place of `[SPECIFY LICENSE HERE]`, and if you have a LICENSE.md or another license file, include that as well. This template gives a clean, concise overview of your project and its functionalities, as well as instructions on how to get started.
